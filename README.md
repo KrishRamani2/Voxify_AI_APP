@@ -4,7 +4,4 @@
 ![Screenshot 2024-04-03 210908](https://github.com/KrishRamani2/Voxify_AI_APP/assets/136609165/4661f22b-0651-483d-86f2-4e79cca34fe3)
 ![Screenshot 2024-04-03 210915](https://github.com/KrishRamani2/Voxify_AI_APP/assets/136609165/fd8fd460-1086-4792-9586-a6651832abce)
 ![Screenshot 2024-04-03 210930](https://github.com/KrishRamani2/Voxify_AI_APP/assets/136609165/4071fbaa-9fcf-46bb-ac49-59aa47acd65b)
-![Screenshot 2024-04-03 210940](https://github.com/![Screenshot 2024-04-03 211001](https://github.com/KrishRamani2/Voxify_AI_APP/assets/136609165/7429b33e-d6f4-4cec-83d4-f58ee6360ea0)
-KrishRamani2/Voxify_AI_APP/assets/136609165/339db0a8-e9c4-4bfa-9452-fd6b87d6ba06)
-![Uploading Screenshot 2024-04-03 211001.png…]()
-![Screenshot 2024-04-03 211007](https://github.com/KrishRamani2/Voxify_AI_APP/assets/136609165/da00ec13-8b26-415a-96ca-c28ecd82f05e)
+
