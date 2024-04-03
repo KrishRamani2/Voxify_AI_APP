@@ -12,14 +12,14 @@ const Features = () => {
         </View>
         <Text style={styles.text3}>ChatGpt can provide you with instant and knowledgeable responses,assist you with creative ideas on a wide range of topics</Text>
       </View>
-      <View style={styles.view2}>
+      <View style={styles.view4}>
         <View style={styles.view3}>
             <Image source={(require("../../assets/dalle.png"))} style={styles.imagebox}/>
             <Text style={styles.text2}>DALL-E</Text>
         </View>
         <Text style={styles.text3}>DALL-E can generate imaginative and diverse images from textual descriptions,expanding the boundaries of visual creativity</Text>
       </View>
-      <View style={styles.view2}>
+      <View style={styles.view5}>
         <View style={styles.view3}>
             <Image source={(require("../../assets/smart.jpg"))} style={styles.imagebox}/>
             <Text style={styles.text2}>SMART AI</Text>
@@ -40,7 +40,6 @@ const styles = StyleSheet.create({
     },
     text:{
         fontSize:wp(6.5),
-
         fontWeight:'semibold',
         color:'gray'
     },
@@ -57,6 +56,20 @@ const styles = StyleSheet.create({
         alignItems:'center',
         letterSpacing:1,
     },
+    view4:{
+      backgroundColor:'#f3c4fb',
+      marginTop:5,
+      padding:16,
+      borderRadius: 20,
+      letterSpacing:5,
+  },
+  view5:{
+    backgroundColor:'#4cc9f0',
+    marginTop:5,
+    padding:16,
+    borderRadius: 20,
+    letterSpacing:5,
+},
     imagebox:{
         height:hp(4),
         width:hp(4),
